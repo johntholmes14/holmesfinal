@@ -5,29 +5,20 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
-  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
+  title: "Holmes MUSA 550 Final Project"
+  site-url: "https://johntholmes14.github.io/Holmes_Final/" 
+  repo-url: https://github.com/johntholmes14/Holmes_Final/
   repo-actions: [source]
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; John Holmes, December 2023"
 
   sidebar:
     logo: "images/course-icon.png"
     pinned: true
     align: center
-    tools: 
-      - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
-      - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        
 
     style: "docked"
     search: true
@@ -38,10 +29,7 @@ website:
       - about.qmd
       - section: analysis/index.qmd
         contents:
-          - analysis/1-python-code-blocks.qmd 
-          - analysis/2-static-images.ipynb
-          - analysis/3-altair-hvplot.ipynb
-          - analysis/4-folium.ipynb
+          - analysis/1-python-code-blocks.qmd
 
 format:
   html:
@@ -51,7 +39,6 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
-
 
 
 

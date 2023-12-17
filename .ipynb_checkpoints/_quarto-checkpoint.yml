@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "Holmes MUSA 550 Final Project"
+  site-url: "https://johntholmes14.github.io/Holmes_Final/" 
+  repo-url: https://github.com/johntholmes14/Holmes_Final/
+  repo-actions: [source]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; John Holmes, December 2023"
+
+  sidebar:
+    logo: "images/course-icon.png"
+    pinned: true
+    align: center
+        
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - about.qmd
+      - section: analysis/index.qmd
+        contents:
+          - analysis/1-python-code-blocks.qmd
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+

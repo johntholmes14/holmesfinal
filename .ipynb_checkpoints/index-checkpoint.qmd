@@ -1,0 +1,22 @@
+---
+title: "Holmes MUSA 550 Final Project"
+subtitle: "Exploring ADU Development in San Francisco"
+---
+
+## Overview
+In this project, I will analyze permitting data for Accessory Dwelling Units (ADUs) in San Francisco. ADUs, or granny flats, are typically small, secondary housing units on residential lots. They were legalized in San Francisco in 2013 as part of the city’s effort to tackle its housing affordability crisis. I’m interested in exploring the permitting data to get a better sense of the shape that ADU development has taken in San Francisco. Questions I will tackle include:
+
+Has ADU devlopment grown over the years?
+
+How common are multi-unit ADU permits, and what does that tell us about ADU development?
+
+What is the spatial distribution of ADU development?
+
+What can demographic factors tell us about ADU development in San Francisco? 
+
+
+
+
+
+
+ 

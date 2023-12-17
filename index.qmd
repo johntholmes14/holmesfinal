@@ -1,30 +1,18 @@
 ---
-title: "MUSA 550 Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "Holmes MUSA 550 Final Project"
+subtitle: "Exploring ADU Development in San Francisco"
 ---
 
-## Welcome!
+## Overview
+In this project, I will analyze permitting data for Accessory Dwelling Units (ADUs) in San Francisco. ADUs, or granny flats, are typically small, secondary housing units on residential lots. They were legalized in San Francisco in 2013 as part of the city’s effort to tackle its housing affordability crisis. I’m interested in exploring the permitting data to get a better sense of the shape that ADU development has taken in San Francisco. Questions I will tackle include:
 
-We can create beautiful websites that describe complex technical analyses in Python using [Quarto](https://quarto.org) 
-and deploy them online using [GitHub Pages](https://pages.github.com/). This combination of tools is a really powerful way 
-to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the 
-final project in MUSA 550. 
+Has ADU devlopment grown over the years?
 
-Quarto is a relatively new tool, but is becoming popular quickly. It's a successor 
-to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other
-languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.  
+How common are multi-unit ADU permits, and what does that tell us about ADU development?
 
-::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you're welcome (and encouraged) to 
-make as many changes as you like to best fit your project.
-:::
+What is the spatial distribution of ADU development?
 
-## Find out more
-
-The code for this repository is hosted on our course's GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
-
-We covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at
-[the slides for lecture 9A](https://musa-550-fall-2023.github.io/content/week-9/lecture-9A.html) to find out more.
+What can demographic factors tell us about ADU development in San Francisco? 
 
 
 

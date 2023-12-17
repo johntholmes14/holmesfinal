@@ -26,10 +26,7 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - about.qmd
-      - section: analysis/index.qmd
-        contents:
-          - analysis/1-python-code-blocks.qmd
+      - analysis/Holmes_Final.ipynb
 
 format:
   html:
